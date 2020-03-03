@@ -19,7 +19,7 @@ disqusShortname = "yourdiscussshortname"
     author = "Minh Nguyen"
     description = "Minh Nguyen's personal website"
     keywords = "blog,developer,personal"
-    info = "Backend Engineer"
+    info = "Software Engineer"
     avatarurl = "images/kumamon.jpg"
     footercontent = ""
 
@@ -101,7 +101,7 @@ disqusShortname = "yourdiscussshortname"
 
         [languages.ja.params]
             author = "グエン・ミン"
-            info = "バックエンドエンジニア"
+            info = "ソフトウェアエンジニア"
             description = ""
             keywords = ""
             footercontent = ""
